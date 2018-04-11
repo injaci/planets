@@ -1,1 +1,5 @@
-This is my first git commit file
+This is my first git commit file.
+This file illustrates how to setup Git
+First make a repository,
+Then initalise it 
+create a file
