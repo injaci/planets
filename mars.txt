@@ -8,3 +8,4 @@ call git commit -m "description here of the changes"
 Incase of updates to the file
 run git add filename
 run git commit 
+To check changes run git status
